@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 <img src="https://profile-counter.glitch.me/%7Bedmareliasb%7D/count.svg">
 
 <!--
 **edmareliasb/edmareliasb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
