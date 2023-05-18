@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Software Developersince 2007, working with back-end techs like Java, Spring, Quarkus, Microservices, Docker and K8S.
+I am a Software Developer since 2007, working with back-end techs like Java, Spring, Quarkus, Microservices, Docker and K8S.
 
 Lastly, I am working with Python for creating automation scripts for daily and repetitive tasks.
 
