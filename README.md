@@ -1,4 +1,4 @@
-### Hi there 👋 <img src="https://profile-counter.glitch.me/%7Bedmareliasb%7D/count.svg">
+### Hi there 👋
 
 I am a Software Developersince 2007, working with back-end techs like Java, Spring, Quarkus, Microservices, Docker and K8S.
 
